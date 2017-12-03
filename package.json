@@ -1,0 +1,27 @@
+{
+  "name": "aws-kitt",
+  "version": "1.0.0",
+  "description": "lots of examples from aws-doc-sdk-example and in some way changed by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnus513/aws-kitt.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs"
+  ],
+  "author": "Magnus Olsson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/magnus513/aws-kitt/issues"
+  },
+  "homepage": "https://github.com/magnus513/aws-kitt#readme",
+  "dependencies": {
+    "aws-sdk": "^2.133.0",
+    "node-uuid": "^1.4.8"
+  }
+}
